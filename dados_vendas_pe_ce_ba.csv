@@ -1,0 +1,31 @@
+ID,Estado,Cidade,Categoria,Quantidade,Valor_Venda
+1,BA,Salvador,Alimentos,4,754.47
+2,PE,Recife,Roupas,9,147.37
+3,PE,Petrolina,Eletrônicos,2,80.19
+4,PE,Recife,Roupas,9,621.92
+5,PE,Petrolina,Roupas,7,716.26
+6,PE,Caruaru,Roupas,1,314.28
+7,PE,Petrolina,Eletrônicos,3,373.24
+8,PE,Caruaru,Alimentos,2,138.11
+9,CE,Juazeiro do Norte,Roupas,1,301.29
+10,BA,Feira de Santana,Roupas,7,168.58
+11,PE,Petrolina,Eletrônicos,10,837.93
+12,CE,Sobral,Alimentos,1,719.34
+13,BA,Salvador,Eletrônicos,4,985.96
+14,PE,Caruaru,Eletrônicos,6,480.74
+15,PE,Caruaru,Eletrônicos,5,249.03
+16,BA,Vitória da Conquista,Roupas,3,117.83
+17,BA,Vitória da Conquista,Alimentos,7,205.23
+18,CE,Sobral,Roupas,6,579.1
+19,PE,Recife,Alimentos,7,814.79
+20,CE,Fortaleza,Alimentos,10,917.48
+21,BA,Feira de Santana,Alimentos,7,672.67
+22,BA,Feira de Santana,Alimentos,4,301.64
+23,BA,Vitória da Conquista,Roupas,10,299.6
+24,CE,Sobral,Eletrônicos,3,393.9
+25,BA,Feira de Santana,Alimentos,2,767.99
+26,PE,Petrolina,Alimentos,7,802.48
+27,BA,Salvador,Eletrônicos,8,412.54
+28,BA,Feira de Santana,Roupas,1,867.74
+29,BA,Vitória da Conquista,Alimentos,9,697.62
+30,CE,Sobral,Eletrônicos,7,155.97
